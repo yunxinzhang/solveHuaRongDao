@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\cworkspace\alg\huarongdao\huarongdao\main.cpp(252): warning C4715: 'solve2': not all control paths return a value
+e:\cworkspace\alg\huarongdao\huarongdao\main.cpp(132): warning C4715: 'solve': not all control paths return a value
+e:\cworkspace\alg\huarongdao\huarongdao\main.cpp(552): warning C4715: 'solve3': not all control paths return a value
+  HuaRongDao.vcxproj -> E:\cworkspace\alg\HuaRongDao\x64\Debug\HuaRongDao.exe
+  HuaRongDao.vcxproj -> E:\cworkspace\alg\HuaRongDao\x64\Debug\HuaRongDao.pdb (Full PDB)

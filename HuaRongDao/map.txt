@@ -1,0 +1,249 @@
+//大写为横向，顺序为长度，小写为纵向。@为待移出方块长2。第一行为图行列。左上为坐标。
+6 6
+C x x x c b
+x c x x x x
+x x @ x x b
+x x x x x x
+x x b C x x
+B x x B x x
+#
+
+
+6 6
+x b C x x x
+x x c B x x
+@ x x x x x
+b x x x b c
+x B x x x x
+C x x x x x
+#z2
+
+
+6 6
+x x b C x x
+b x x b x x
+x @ x x b b
+C x x b x x
+b x x x x x
+x B x B x x
+#
+
+6 6
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+#
+
+
+
+6 6
+C x x c c c
+x x b x x x
+@ x x x x x
+x b x x x x
+x x B x x x
+x x x x x x
+#h1
+
+
+6 6
+x x b C x x
+x x x b B x
+@ x x x b b
+b B x x x x
+x B x x b b
+B x B x x x
+#大师7
+
+6 6
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+x x x x x x
+#
+
+
+
+6 6
+x x b C x x
+B x x b x b
+c @ x x b x
+x b x b x b
+x x x x b x
+B x B x x x
+#大师6
+
+
+
+
+
+6 6
+B x b x x x
+c b x C x x
+x x @ x b b
+x B x b x x
+x x x x B x
+x x B x B x
+#大师5
+
+
+
+
+6 6
+x C x x b b
+x x B x x x
+x x c @ x b
+B x x b x x
+b b x x B x
+x x C x x x
+#大师4
+
+
+
+
+6 6
+B x x x b c
+b b B x x x
+x x b @ x x
+B x x b x x
+b b x x B x
+x x B x B x
+#大师3
+
+
+
+6 6
+c C x x B x
+x C x x B x
+x b @ x b b
+x x B x x x
+x x x b B x
+x x x x B x
+#大师2
+
+
+
+6 6
+b x b B x x
+x x x b B x
+@ x x x b b
+x b B x x x
+x x b B x b
+B x x x x x
+#大师1
+
+6 6
+c x b x x x
+x x x x B x
+x b @ x b x
+x x x x x x
+x x b C x x
+B x x x x x
+#
+
+6 6
+x x x x x x
+C x x C x x
+b x @ x b x
+x C x x x x
+x x x b B x
+B x x x x x
+#36b
+
+
+
+6 6
+x x B x x x
+x x b C x x
+x x x @ x c
+x B x c x x
+x B x x x x
+x x x x B x
+#35b
+
+
+6 6
+x x x b B x
+C x x x b x
+x c @ x x x
+x x C x x x
+x x b x x x
+B x x x x x
+#33b
+
+
+
+6 6
+B x b x x x
+b x x x x c
+x b x @ x x
+x x x x x x
+B x x b B x
+x x x x x x
+
+6 6
+x x x C x x
+x x c x x b
+@ x x x x x
+x b x x B x
+x x B x b x
+x x B x x x
+#31b
+
+
+6 6
+c x x b c x
+x x x x x b
+x @ x b x x
+x x x x x c
+x x b B x x
+x x x x x x
+#30b
+
+
+
+6 6
+x x b b B x
+x x x x b b
+x x @ x x x
+C x B x b x
+x x x x x x
+x x x x x x
+#29b
+
+6 6
+x x b B x x
+x x x C x x
+x x @ x c x
+B x b x x x
+x b x x x x
+x x x C x x
+
+5 5
+x x C x x
+x x x b b
+@ x b x x
+x x x x b
+x x B x x
+#13b
+
+x x x x c b
+x x x x x x
+x x @ x x b
+c x x b x x
+x x b x B x
+x x x C x x
+
+
+
+C x x c c c
+x x b x x x
+@ x x x x x
+x b x x x x
+x x B x x x
+x x x x x x 
